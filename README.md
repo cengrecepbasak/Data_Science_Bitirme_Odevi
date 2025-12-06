@@ -20,7 +20,7 @@ proje_klasoru/
 
 ---
 
-# 🧮 ÖDEV 1: Veri Filtreleme ve Sıralama Projesi
+# ÖDEV 1: Veri Filtreleme ve Sıralama Projesi
 
 Bu ödevde **country.csv** veri seti kullanılarak çeşitli filtreleme, sıralama ve seçim işlemleri yapılmıştır. Veri seti ülkelerin demografik, ekonomik ve coğrafi verilerini içerir.
 
