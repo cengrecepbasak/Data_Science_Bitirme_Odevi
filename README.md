@@ -96,6 +96,6 @@ pip install pandas numpy matplotlib
 
 ---
 
-### Hazırlayan: Recep Başak (Ödev Sunumu)
+
 
 
